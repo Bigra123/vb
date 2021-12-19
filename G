@@ -90,10 +90,8 @@ def menu():
         os.system("rm -rf login.txt")
         print("")
         time.sleep(1)
-        wordlist()
+   
 
-	else:
-	    wordlist()
 
 
 def pengguna():
